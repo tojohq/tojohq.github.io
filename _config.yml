@@ -1,4 +1,4 @@
-logo: # add logo name
+logo: ![logo](http://static.tumblr.com/243d7fe8ec09b2843d967c94e4d951e8/pbymuet/D2Loiwkah/tumblr_static_exz3y83go54wskk40k4cgo400.png)
 title: Bef - Enjoy Freedom
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -15,11 +15,8 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face1.jpg # your photo
-author-name: # your name
+author-name: João Vítor # your name
 about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
 
 # Social link
 google_url:    # add url link
