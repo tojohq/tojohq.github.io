@@ -212,10 +212,7 @@ var demo = (function (window) {
      * @private
      */
     var _setPatternBgImg = function (image) {
-
-        var imagePath = $(image).attr('xlink:href');
-
-        $(SELECTORS.pattern).css('background-image', 'url(' + imagePath + ')');
+        $(SELECTORS.pattern).css('background-image', 'url(https://c5.staticflickr.com/1/270/31902667876_3b42f74182_o.jpg)');
     };
 
     /**
