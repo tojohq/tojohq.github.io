@@ -1,15 +1,19 @@
 ---
-layout: maingames
+layout: main
 title: Games
-permalink: /all-games/
+permalink: /gamess/
 ---
 
-{% for game in site.games %}
+{% for post in paginator.posts %}
   <div class="chapter">
+    <a href="{{post.url | prepend: site.baseurl}}">
+      {% if post.img %}
+      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+      {% endif %}
+    </a>
     <div class="chapter_inner">
-      <a href="{{game.url | prepend: site.baseurl}}">
-        <h3 class="chapter_title">{{game.title}}</h3>
-      </a>
+      <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
+      <h3 class="chapter_title">{{post.title}}</h3>
     </div>
   </div>
 {% endfor %}
