@@ -6,11 +6,9 @@ permalink: "/games/"
 
 {% for game in site.games %}
   <div class="chapter">
-    <a href="{{game.url | prepend: site.baseurl}}">
       {% if game.img %}
       ![{{game.title}}]({{ site.baseurl | append: /assets/img/ | append: game.img }})
       {% endif %}
-    </a>
     <div class="chapter_inner">
       <h3 class="chapter_title">{{game.title}}</h3>
     </div>
