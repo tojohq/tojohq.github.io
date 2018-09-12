@@ -1,0 +1,13 @@
+---
+layout: maingames
+title: Games
+permalink: /games/
+---
+
+{% for post in site.games %}
+  <div class="chapter">
+    <div class="chapter_inner">
+      <h3 class="chapter_title">{{post.title}}</h3>
+    </div>
+  </div>
+{% endfor %}
