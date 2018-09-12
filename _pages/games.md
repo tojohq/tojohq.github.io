@@ -1,5 +1,7 @@
 ---
 layout: main
+title: "A list of animals"
+permalink: "/games/"
 ---
 
 {% for game in site.games %}
