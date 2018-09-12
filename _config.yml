@@ -26,6 +26,11 @@ pinterest_url: # add url link
 dribbble_url:  # add url link
 facebook_url:  # add url link
 
+# collections
+collections:
+  games:
+    output: true
+
 # Disqus
 discus_identifier: tojohq # add your discus identifier
 
