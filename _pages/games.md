@@ -8,7 +8,7 @@ permalink: "/games/"
   <div class="chapter">
     <a href="{{game.url | prepend: site.baseurl}}">
       {% if game.img %}
-      <img src="{{ /assets/img/ | prepend: site.baseurl | append: game.img }}" alt="{{game.title}}">
+      <img src="{{ "/assets/img/" | prepend: site.baseurl | append: game.img }}" alt="{{game.title}}">
       {% endif %}
     </a>
     <div class="chapter_inner">
