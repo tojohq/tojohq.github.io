@@ -83,3 +83,5 @@ There’s also the return of the buff system from Yakuza 6, where you could get 
 **Cons:**
 - While the OST is still good, a few songs feel out of place, especially when compared to the original Yakuza 2. Some of these said new songs ended up growing on me the more I thought about them, the scenes and their lyrics, but some didn't.
 - The Majima Saga could - and should - be longer. It's a nice addition nevertheless, but it’s a tad too short and lacks things like substories, upgradable skills and a bigger variety of combos.
+
+**Disclaimer:** Reviewed on a standard PS4 model using a review code provided by the publisher.
