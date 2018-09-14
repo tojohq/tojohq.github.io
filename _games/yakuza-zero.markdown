@@ -1,6 +1,6 @@
 ---
 layout: game
-title: "Yakuza 2"
+title: "Yakuza Zero"
 id: 1
 img: zero.jpg # Add image post (optional)
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
