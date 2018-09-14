@@ -6,7 +6,6 @@ date: 2018-09-14 15:30:00 -0300
 description: How does SEGA's modern take on Yakuza 2 fare? # Add post description (optional)
 tag: [Review, Yakuza Kiwami 2]
 ---
-<div style="text-align: justify">
 Yakuza 2, originally released for PS2 in Japan in 2006, is regarded by many as the best Yakuza game to date. Following the success obtained with the first game, it evolves and expands the formula, fixing many issues along the way. The gameplay, the soundtrack, the emotional story and the vast cast of characters are only a few reasons why it’s so well regarded among fans, even after 12 years. It’s certainly not an easy task to remake such a game. So, how does SEGA's modern take on the game fare?
 
 The following review aims to be as spoiler-free as possible, but be advised some spoilers may be there for Yakuza Zero and Yakuza Kiwami(1). Read at your own discretion.
@@ -84,4 +83,3 @@ There’s also the return of the buff system from Yakuza 6, where you could get 
 **Cons:**
 - While the OST is still good, a few songs feel out of place, especially when compared to the original Yakuza 2. Some of these said new songs ended up growing on me the more I thought about them, the scenes and their lyrics, but some didn't.
 - The Majima Saga could - and should - be longer. It's a nice addition nevertheless, but it’s a tad too short and lacks things like substories, upgradable skills and a bigger variety of combos.
-</div>
