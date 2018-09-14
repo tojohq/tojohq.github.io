@@ -3,7 +3,7 @@ layout: maingames
 title: Games
 permalink: /games/
 ---
-{% assign sorted = (site.games | sort: 'date') | reverse %}
+{% assign sorted = (site.games | sort: 'date') %}
 {% for post in sorted  %}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
