@@ -43,11 +43,11 @@ We also see some changes to the cities, when comparing to the original game, Yak
 
 About the minigames, one of the new ones would be the ‘Toylet’, which can be described as a ‘pee themed WarioWare’, with different inner minigames, accessible on Club SEGA bathrooms. You can’t play the minigame all the time, as there’s a certain gauge that needs to be filled before you can attempt playing it again. It’s based on an homonymous real life ‘interactive urinal’ made by SEGA, in Japan, that plays in pretty much the exact same way. The Virtual On is a port of the 1995 SEGA Saturn and arcade game, where you control mecha fighters on 1vs1 battles. During the Gravure Studio minigame, you take photos of a girl, and have to answer her question within a given time limit, forming sentences that she likes. The objective is to make sure she leaves the session in a good mood, unlocking new outfits for you to see.
 
-<img src="https://pbs.twimg.com/media/DnFNUWLX4AA7E5T.jpg" class="center-img" style="width: 70%">
+<img src="https://pbs.twimg.com/media/DnFNUWLX4AA7E5T.jpg" class="center-img" style="width: 100%">
 
 We also see the return of several minigames from previous games, like the gambling hall, the casino, shogi, baseball, golf, the UFO Catcher and Virtua Fighter 2, at Club SEGA, and the DVD Store. The karaoke was updated, with several new and returning songs. Also back is the Haruka Requests system, where you complete objectives which go from buying items to playing minigames.
 
-<img src="https://pbs.twimg.com/media/DnFNtiFW4AATUjh.jpg" class="center-img" style="width: 70%">
+<img src="https://pbs.twimg.com/media/DnFNtiFW4AATUjh.jpg" class="center-img" style="width: 100%">
 
 The Clan Creator is back from Yakuza 6, and overall it received a decent update. Kiryu helps Majima Construction fight back a group trying to steal his Kamurocho Hills project. This time, the minigame is much more fun to play once you get the hang of it, being comparable to a tower defense game now. It's not too efficient to run around with characters to fight enemies, and they don’t move completely on their own like in Yakuza 6. A good idea would be to put the characters in strategic places and rearranging them when necessary. You can purchase new characters through PSN with real money, recruit them by completing quests through the game or through the ‘Recruit Employees’ option in the minigame’s main menu. In said menu you can also upgrade your headquarters and train employees, besides joining battles online and offline.
 
@@ -70,7 +70,7 @@ Without spoiling too much of the Majima’s Saga, it’s a good and enjoyable ad
 We have some big differences to the OST when comparing Kiwami 2 to the original Yakuza 2. Gone are most of the songs, including the Crazy Ken Band ones, with their jazzy appeal, and in are the more modern SiM songs, giving a complete different tone about some scenes. Some songs do feel out of place initially, but not all of them. Some songs grew on me the more I heard them, the more I saw and thought about the scenes and lyrics, but some of them still just don’t match the situation.
 About the combat, there are considerably more skills, combos and heat actions when compared to Yakuza 6, making the combat feel more fluid and dynamic. It still doesn’t feel as in-depth as, say, Yakuza Zero or Kiwami with their multiple fighting styles, but it’s definitely a step in the right direction.
 
-<img src="https://pbs.twimg.com/media/DnFMHDKW4AARcmK.jpg" class="center-img" style="width: 70%">
+<img src="https://pbs.twimg.com/media/DnFMHDKW4AARcmK.jpg" class="center-img" style="width: 100%">
 
 The level up system is the same as in Yakuza 6, where we have five different experience points - Strength, Agility, Spirit, Technique and Charm - obtained in different amounts through different activities. Also as in Yakuza 6, we can use the experience points to upgrade our basic stats, battle skills, heat actions and life skills. For example, a substory tracker or ways to increase experience points. Besides using experience points to buy heat actions, we can also gain them by completing sidestories, fighting Komaki and going to the acupuncture clinic in Sotenbori.
 There’s also the return of the buff system from Yakuza 6, where you could get increased stats or exp by eating a combination of meals at a restaurant or drinking from the vending machines. It’s worth noting that the machine drinks can be carried in your inventory now, compared to Yakuza 6 where you had to drink them right away.
