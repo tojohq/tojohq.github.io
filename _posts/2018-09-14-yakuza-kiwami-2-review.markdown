@@ -23,9 +23,9 @@ The following review aims to be as spoiler-free as possible, but be advised some
 
 One year after the 10 billion yen incident, Kazuma Kiryu begins to build a peaceful life with Haruka Sawamura, daughter of Yumi Sawamura. The assassination of the newly appointed Tojo Clan Chairman, Yukio Terada, threatens to erupt in an all-out war between the Tojo Clan and the Omi Alliance, and forces Kiryu to intervene. The Dragon of Dojima must travel to Sotenbori, Osaka, in an attempt to make amends between the rival clans, while also finding a replacement for the fallen chairman, but Ryuji Goda, known as the Dragon of Kansai, following his own agenda, will stop at nothing to get his war. In this world, there can only be one dragon.
 
-[Screenshots Kiwami 2 e 6 Twitter]
+<img src="https://78.media.tumblr.com/81c1f7990e9c7f7f3f39cc0cd73359b6/tumblr_pf29qmATB51w050vko1_1280.png" class="center-img" style="width: 70%">
 
-The Dragon Engine comes back from Yakuza 6 to bring Kiwami 2 to life. While some hiccups happened in its previous iteration, Kiwami 2 runs smoothly, at a constant 30 fps on a standard PS4. I wasn’t able to notice any performance issues while playing through the game. The character models, animation and overall textures are looking good. Comparing screenshots from Yakuza 6 and Kiwami 2, we can notice a big difference in lighting, especially during the night. While there's no specific reason for that, one of the possibilities is that they tried to keep it close to the original game.
+The Dragon Engine comes back from Yakuza 6 to bring Kiwami 2 to life. While some hiccups happened in its previous iteration, Kiwami 2 runs smoothly, at a constant 30 fps on a standard PS4. I wasn’t able to notice any performance issues while playing through the game. The character models, animation and overall textures are looking good. Above, comparing screenshots from Yakuza 6 and Kiwami 2, respectively, we can notice a big difference in lighting, especially during the night. While there's no specific reason for that, one of the possibilities is that they tried to keep it close to the original game.
 
 [mapa kamurocho]
 
