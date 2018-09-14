@@ -1,7 +1,7 @@
 ---
 layout: game
-title: "Ryu Ga Gotoku Kurohyou"
-id: 14
+title: "Yakuza 2"
+id: 1
 img: himalayan.jpg # Add image post (optional)
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---

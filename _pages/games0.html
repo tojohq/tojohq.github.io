@@ -3,8 +3,8 @@ layout: maingames
 title: Games
 permalink: /games/
 ---
-
-{% for post in site.games %}
+{% assign ordered_games = site.games | sort: 'id' | reverse %}
+{% for post in ordered_games limit:19  %}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}
