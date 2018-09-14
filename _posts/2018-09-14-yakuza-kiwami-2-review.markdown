@@ -12,7 +12,7 @@ The following review aims to be as spoiler-free as possible, but be advised some
 
 
 <div class="IFR" alt="-" style="margin: auto; width: 50%;">
-    <iframe id="video" width="420" height="315" align="center" src="https://www.youtube.com/embed/Rjhpn-uiOT0?rel=0" frameborder="0" donotallowfullscreen>
+    <iframe id="video" width="420" height="315" align="center" src="https://www.youtube.com/embed/Rjhpn-uiOT0" frameborder="0" donotallowfullscreen>
     <p>
         Your browser does not support Iframes <br>
         I suggest that you use Google Chrome or FireFox
@@ -36,7 +36,7 @@ We also see some changes to the cities, when comparing to the original game, Yak
 When it comes to Sotenbori, the southeastern area/plaza has been removed. Some other buildings have also changed. While it was remade from the ground for this new engine, overall it's still pretty similar to its Yakuza Zero incarnation. Gone is the third smaller area of the original Yakuza 2, with the Tower.
 
 <div class="IFR" alt="-" style="margin: auto; width: 50%;">
-    <iframe id="video" width="420" height="315" align="center" src="https://www.youtube.com/embed/l018yH7oA04?rel=0" frameborder="0" donotallowfullscreen>
+    <iframe id="video" width="420" height="315" align="center" src="https://www.youtube.com/embed/l018yH7oA04" frameborder="0" donotallowfullscreen>
     <p>
         Your browser does not support Iframes <br>
         I suggest that you use Google Chrome or FireFox
