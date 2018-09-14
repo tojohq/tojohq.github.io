@@ -1,7 +1,7 @@
 ---
 layout: game
 title: "Ryu Ga Gotoku Kurohyou 2"
-id: 15
+date: 2017-07-15 12:55:00 +0300
 img: kuro2.jpg # Add image post (optional)
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---

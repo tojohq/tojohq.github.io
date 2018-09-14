@@ -1,7 +1,7 @@
 ---
 layout: game
 title: "Yakuza: Kenzan!"
-id: 11
+date: 2017-07-11 12:55:00 +0300
 img: kenzan.jpg # Add image post (optional)
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
