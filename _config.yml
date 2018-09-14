@@ -1,9 +1,9 @@
 logo: ![logo](http://static.tumblr.com/243d7fe8ec09b2843d967c94e4d951e8/pbymuet/D2Loiwkah/tumblr_static_exz3y83go54wskk40k4cgo400.png)
-title: Bef - Enjoy Freedom
+title: TojoHQ
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tojo HQ is a Yakuza fansite created in December 8th, 2012. Our objective,
+  since that day, is to bring the best, most enjoyable and most accurate
+  content. Welcome to TojoHQ: The Headquarters of the Yakuza fans!
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
