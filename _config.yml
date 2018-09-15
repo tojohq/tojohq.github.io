@@ -28,6 +28,8 @@ facebook_url: fb.com/tojohq # add url link
 
 # collections
 collections:
+  drafts:
+    output: true
   games:
     output: true
 
