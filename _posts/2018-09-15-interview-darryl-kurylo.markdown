@@ -33,7 +33,6 @@ During the interview, there might be spoilers about the ending of Yakuza/Yakuza 
         I suggest that you use Google Chrome or FireFox
     </p>
     </iframe>
-  </div>
 </div>
 <br/>
 
