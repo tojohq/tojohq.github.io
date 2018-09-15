@@ -6,7 +6,7 @@ date: 2018-09-15 10:30:00 -0300
 description: TojoHQ Interviews Kiryu's English VA. # Add post description (optional)
 tag: [Interview, Yakuza, Darryl Kurylo]
 ---
-**Darryl Kurylo** is an actor and voice actor with decades of experience across different media, including television and video games, including roles on Guild Wars, World of Warcraft, Prototype 2 and, more recently, Destiny 2. However, if you are reading this, chances are you heard about him because of his role on the western release of Yakuza, as he was Kiryu Kazuma’s voice actor. Mr. Kurylo was kind enough to answer some of our questions about his work on Yakuza - keep reading for an interesting and never before seen insight of the localization process for the first game.
+**Darryl Kurylo** is an actor and voice actor with decades of experience across different media, from television to video games. Notable roles include Guild Wars, World of Warcraft, Prototype 2 and, more recently, Destiny 2. However, if you are reading this, chances are you heard about him because of his role on the western release of Yakuza, as he was Kiryu Kazuma’s voice actor. Mr. Kurylo was kind enough to answer some of our questions about his work on Yakuza - keep reading for an interesting and never before seen insight of the localization process for the first game.
 
 As a disclaimer, the localization process of the US PS2 release of Yakuza was handled by a completely different team, long before anyone currently handling the series in the West, from localization to marketing to PR, was even part of SEGA of America.
 
