@@ -2,7 +2,7 @@
 layout: post
 title: "TojoHQ Interviews - Darryl Kurylo"
 img: kurylo.jpg # Add image post (optional)
-date: 2018-09-15 15:30:00 -0300
+date: 2018-09-13 15:30:00 -0300
 description: How does SEGA's modern take on Yakuza 2 fare? # Add post description (optional)
 tag: [Interview, Yakuza, Darryl Kurylo]
 ---
